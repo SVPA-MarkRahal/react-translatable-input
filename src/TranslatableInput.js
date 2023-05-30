@@ -1,5 +1,6 @@
 // eslint-disable-next-line import/no-unresolved, import/extensions
-import React, { Component, PropTypes } from 'react';
+import React, { Component } from 'react';
+import PropTypes from 'prop-types'
 import Select from 'react-select';
 import 'react-select/dist/react-select.css';
 import 'flag-icon-css/css/flag-icon.min.css';
